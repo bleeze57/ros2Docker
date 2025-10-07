@@ -11,16 +11,16 @@ https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
 Step-by-Step
 
 1.git clone this repo
-$ git clone https://github.com/bleeze57/ros2Docker.git
+  $ git clone https://github.com/bleeze57/ros2Docker.git
 
 2.Change directory to "ros2_root"
-$ cd ros2_root
+  $ cd ros2_root
 
 3.Build Docker image
-$ docker build -t ros2docker .
+  $ docker build -t ros2docker .
 
 4.Check created docker image
-$ docker images
+  $ docker images
 
 5.Run Docker image
 $ docker run -it --rm ros2docker 
