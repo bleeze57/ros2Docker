@@ -1,0 +1,10 @@
+[0.048s] Invoking command in '/home/psasav/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --build /home/psasav/ros2_ws/build/examples_rclcpp_minimal_action_server -- -j16 -l16
+[3.653s] [35m[1mConsolidate compiler generated dependencies of target action_server_not_composable[0m
+[3.654s] [ 25%] [32mBuilding CXX object CMakeFiles/action_server_member_functions.dir/member_functions.cpp.o[0m
+[3.654s] [ 50%] [32m[1mLinking CXX executable action_server_not_composable[0m
+[3.654s] [ 75%] Built target action_server_not_composable
+[14.806s] gmake[2]: *** [CMakeFiles/action_server_member_functions.dir/build.make:76: CMakeFiles/action_server_member_functions.dir/member_functions.cpp.o] Interrupt
+[14.810s] gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/action_server_member_functions.dir/all] Interrupt
+[14.817s] gmake: *** wait: No child processes.  Stop.
+[14.817s] gmake: *** Waiting for unfinished jobs....
+[14.817s] gmake: *** wait: No child processes.  Stop.

@@ -1,0 +1,38 @@
+[35m[1mConsolidate compiler generated dependencies of target wait_set_talker[0m
+[35m[1mConsolidate compiler generated dependencies of target wait_set_listener[0m
+[  4%] [32mBuilding CXX object CMakeFiles/listener.dir/src/listener.cpp.o[0m
+[  8%] [32mBuilding CXX object CMakeFiles/wait_set.dir/src/wait_set.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/static_wait_set.dir/src/static_wait_set.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/thread_safe_wait_set.dir/src/thread_safe_wait_set.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[ 29%] Built target wait_set_listener
+[ 33%] [32mBuilding CXX object CMakeFiles/executor_random_order.dir/src/executor_random_order.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/wait_set_talker.dir/rclcpp_components/node_main_wait_set_talker.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/wait_set_topics_with_different_rates.dir/src/wait_set_topics_with_different_rates.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/wait_set_random_order.dir/src/wait_set_random_order.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o[0m
+[ 54%] [32m[1mLinking CXX executable wait_set_talker[0m
+[ 54%] Built target wait_set_talker
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[1]: *** [CMakeFiles/Makefile2:315: CMakeFiles/thread_safe_wait_set.dir/all] Error 2
+gmake[2]: *** [CMakeFiles/static_wait_set.dir/build.make:76: CMakeFiles/static_wait_set.dir/src/static_wait_set.cpp.o] Interrupt
+gmake[2]: *** [CMakeFiles/wait_set_random_order.dir/build.make:76: CMakeFiles/wait_set_random_order.dir/src/wait_set_random_order.cpp.o] Interrupt
+gmake[2]: *** [CMakeFiles/listener.dir/build.make:76: CMakeFiles/listener.dir/src/listener.cpp.o] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:289: CMakeFiles/static_wait_set.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:367: CMakeFiles/wait_set_random_order.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:211: CMakeFiles/listener.dir/all] Interrupt
+gmake[2]: *** [CMakeFiles/wait_set_topics_and_timer.dir/build.make:76: CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o] Interrupt
+gmake[2]: *** [CMakeFiles/executor_random_order.dir/build.make:76: CMakeFiles/executor_random_order.dir/src/executor_random_order.cpp.o] Interrupt
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[1]: *** [CMakeFiles/Makefile2:341: CMakeFiles/wait_set_topics_and_timer.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:393: CMakeFiles/executor_random_order.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:159: CMakeFiles/talker.dir/all] Error 2
+gmake[2]: *** [CMakeFiles/wait_set.dir/build.make:76: CMakeFiles/wait_set.dir/src/wait_set.cpp.o] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:263: CMakeFiles/wait_set.dir/all] Interrupt
+gmake[2]: *** [CMakeFiles/wait_set_topics_with_different_rates.dir/build.make:76: CMakeFiles/wait_set_topics_with_different_rates.dir/src/wait_set_topics_with_different_rates.cpp.o] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:419: CMakeFiles/wait_set_topics_with_different_rates.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

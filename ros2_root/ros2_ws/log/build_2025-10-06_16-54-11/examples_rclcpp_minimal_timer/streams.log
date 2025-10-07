@@ -1,0 +1,26 @@
+[0.048s] Invoking command in '/home/psasav/ros2_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --build /home/psasav/ros2_ws/build/examples_rclcpp_minimal_timer -- -j16 -l16
+[3.668s] [35m[1mConsolidate compiler generated dependencies of target timer_lambda[0m
+[3.668s] [35m[1mConsolidate compiler generated dependencies of target timer_member_function[0m
+[3.668s] [ 50%] Built target timer_lambda
+[3.668s] [100%] Built target timer_member_function
+[3.723s] Invoked command in '/home/psasav/ros2_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --build /home/psasav/ros2_ws/build/examples_rclcpp_minimal_timer -- -j16 -l16
+[3.729s] Invoking command in '/home/psasav/ros2_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --install /home/psasav/ros2_ws/build/examples_rclcpp_minimal_timer
+[11.009s] -- Install configuration: ""
+[11.009s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/lib/examples_rclcpp_minimal_timer/timer_lambda
+[11.009s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/lib/examples_rclcpp_minimal_timer/timer_member_function
+[11.009s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_timer
+[11.009s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_timer
+[11.009s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/ament_prefix_path.sh
+[11.009s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/ament_prefix_path.dsv
+[11.010s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/path.sh
+[11.010s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/path.dsv
+[11.010s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.bash
+[11.010s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.sh
+[11.010s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.zsh
+[11.010s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.dsv
+[11.010s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/package.dsv
+[11.010s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/packages/examples_rclcpp_minimal_timer
+[11.010s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/cmake/examples_rclcpp_minimal_timerConfig.cmake
+[11.010s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/cmake/examples_rclcpp_minimal_timerConfig-version.cmake
+[11.010s] -- Up-to-date: /home/psasav/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/package.xml
+[11.098s] Invoked command in '/home/psasav/ros2_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --install /home/psasav/ros2_ws/build/examples_rclcpp_minimal_timer

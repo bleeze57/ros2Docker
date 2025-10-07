@@ -1,0 +1,4 @@
+[35m[1mConsolidate compiler generated dependencies of target action_server_not_composable[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/action_server_member_functions.dir/member_functions.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable action_server_not_composable[0m
+[ 75%] Built target action_server_not_composable

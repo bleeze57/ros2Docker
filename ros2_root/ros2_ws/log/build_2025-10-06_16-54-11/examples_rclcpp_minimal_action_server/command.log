@@ -1,0 +1,1 @@
+Invoking command in '/home/psasav/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --build /home/psasav/ros2_ws/build/examples_rclcpp_minimal_action_server -- -j16 -l16

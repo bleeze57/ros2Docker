@@ -1,0 +1,39 @@
+[0.048s] Invoking command in '/home/psasav/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --build /home/psasav/ros2_ws/build/examples_rclcpp_wait_set -- -j16 -l16
+[3.678s] [35m[1mConsolidate compiler generated dependencies of target wait_set_talker[0m
+[3.679s] [35m[1mConsolidate compiler generated dependencies of target wait_set_listener[0m
+[3.679s] [  4%] [32mBuilding CXX object CMakeFiles/listener.dir/src/listener.cpp.o[0m
+[3.679s] [  8%] [32mBuilding CXX object CMakeFiles/wait_set.dir/src/wait_set.cpp.o[0m
+[3.679s] [ 16%] [32mBuilding CXX object CMakeFiles/static_wait_set.dir/src/static_wait_set.cpp.o[0m
+[3.679s] [ 16%] [32mBuilding CXX object CMakeFiles/thread_safe_wait_set.dir/src/thread_safe_wait_set.cpp.o[0m
+[3.679s] [ 20%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[3.679s] [ 29%] Built target wait_set_listener
+[3.682s] [ 33%] [32mBuilding CXX object CMakeFiles/executor_random_order.dir/src/executor_random_order.cpp.o[0m
+[3.682s] [ 50%] [32mBuilding CXX object CMakeFiles/wait_set_talker.dir/rclcpp_components/node_main_wait_set_talker.cpp.o[0m
+[3.682s] [ 50%] [32mBuilding CXX object CMakeFiles/wait_set_topics_with_different_rates.dir/src/wait_set_topics_with_different_rates.cpp.o[0m
+[3.682s] [ 37%] [32mBuilding CXX object CMakeFiles/wait_set_random_order.dir/src/wait_set_random_order.cpp.o[0m
+[3.682s] [ 45%] [32mBuilding CXX object CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o[0m
+[11.132s] [ 54%] [32m[1mLinking CXX executable wait_set_talker[0m
+[11.517s] [ 54%] Built target wait_set_talker
+[14.779s] gmake[2]: *** wait: No child processes.  Stop.
+[14.779s] gmake[2]: *** Waiting for unfinished jobs....
+[14.779s] gmake[2]: *** wait: No child processes.  Stop.
+[14.779s] gmake[1]: *** [CMakeFiles/Makefile2:315: CMakeFiles/thread_safe_wait_set.dir/all] Error 2
+[14.779s] gmake[2]: *** [CMakeFiles/static_wait_set.dir/build.make:76: CMakeFiles/static_wait_set.dir/src/static_wait_set.cpp.o] Interrupt
+[14.780s] gmake[2]: *** [CMakeFiles/wait_set_random_order.dir/build.make:76: CMakeFiles/wait_set_random_order.dir/src/wait_set_random_order.cpp.o] Interrupt
+[14.780s] gmake[2]: *** [CMakeFiles/listener.dir/build.make:76: CMakeFiles/listener.dir/src/listener.cpp.o] Interrupt
+[14.780s] gmake[1]: *** [CMakeFiles/Makefile2:289: CMakeFiles/static_wait_set.dir/all] Interrupt
+[14.780s] gmake[1]: *** [CMakeFiles/Makefile2:367: CMakeFiles/wait_set_random_order.dir/all] Interrupt
+[14.780s] gmake[1]: *** [CMakeFiles/Makefile2:211: CMakeFiles/listener.dir/all] Interrupt
+[14.783s] gmake[2]: *** [CMakeFiles/wait_set_topics_and_timer.dir/build.make:76: CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o] Interrupt
+[14.784s] gmake[2]: *** [CMakeFiles/executor_random_order.dir/build.make:76: CMakeFiles/executor_random_order.dir/src/executor_random_order.cpp.o] Interrupt
+[14.784s] gmake[2]: *** wait: No child processes.  Stop.
+[14.784s] gmake[2]: *** Waiting for unfinished jobs....
+[14.784s] gmake[2]: *** wait: No child processes.  Stop.
+[14.784s] gmake[1]: *** [CMakeFiles/Makefile2:341: CMakeFiles/wait_set_topics_and_timer.dir/all] Interrupt
+[14.784s] gmake[1]: *** [CMakeFiles/Makefile2:393: CMakeFiles/executor_random_order.dir/all] Interrupt
+[14.784s] gmake[1]: *** [CMakeFiles/Makefile2:159: CMakeFiles/talker.dir/all] Error 2
+[14.794s] gmake[2]: *** [CMakeFiles/wait_set.dir/build.make:76: CMakeFiles/wait_set.dir/src/wait_set.cpp.o] Interrupt
+[14.794s] gmake[1]: *** [CMakeFiles/Makefile2:263: CMakeFiles/wait_set.dir/all] Interrupt
+[14.794s] gmake[2]: *** [CMakeFiles/wait_set_topics_with_different_rates.dir/build.make:76: CMakeFiles/wait_set_topics_with_different_rates.dir/src/wait_set_topics_with_different_rates.cpp.o] Interrupt
+[14.794s] gmake[1]: *** [CMakeFiles/Makefile2:419: CMakeFiles/wait_set_topics_with_different_rates.dir/all] Interrupt
+[14.796s] gmake: *** [Makefile:146: all] Interrupt

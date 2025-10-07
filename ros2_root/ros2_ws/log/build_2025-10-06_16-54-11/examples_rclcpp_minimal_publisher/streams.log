@@ -1,0 +1,24 @@
+[0.047s] Invoking command in '/home/psasav/ros2_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --build /home/psasav/ros2_ws/build/examples_rclcpp_minimal_publisher -- -j16 -l16
+[3.658s] [  8%] [32mBuilding CXX object CMakeFiles/publisher_member_function.dir/member_function.cpp.o[0m
+[3.658s] [ 16%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o[0m
+[3.658s] [ 25%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_type_adapter.dir/member_function_with_type_adapter.cpp.o[0m
+[3.658s] [ 33%] [32mBuilding CXX object CMakeFiles/publisher_wait_for_all_acked.dir/member_function_with_wait_for_all_acked.cpp.o[0m
+[3.659s] [ 41%] [32mBuilding CXX object CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o[0m
+[3.659s] [ 50%] [32mBuilding CXX object CMakeFiles/publisher_lambda.dir/lambda.cpp.o[0m
+[14.789s] gmake[2]: *** [CMakeFiles/publisher_wait_for_all_acked.dir/build.make:76: CMakeFiles/publisher_wait_for_all_acked.dir/member_function_with_wait_for_all_acked.cpp.o] Interrupt
+[14.802s] gmake[1]: *** [CMakeFiles/Makefile2:251: CMakeFiles/publisher_wait_for_all_acked.dir/all] Interrupt
+[14.807s] gmake[2]: *** wait: No child processes.  Stop.
+[14.807s] gmake[2]: *** Waiting for unfinished jobs....
+[14.807s] gmake[2]: *** wait: No child processes.  Stop.
+[14.807s] gmake[2]: *** wait: No child processes.  Stop.
+[14.807s] gmake[2]: *** Waiting for unfinished jobs....
+[14.807s] gmake[2]: *** wait: No child processes.  Stop.
+[14.807s] gmake[1]: *** [CMakeFiles/Makefile2:225: CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/all] Error 2
+[14.807s] gmake[2]: *** [CMakeFiles/publisher_lambda.dir/build.make:76: CMakeFiles/publisher_lambda.dir/lambda.cpp.o] Interrupt
+[14.809s] gmake[1]: *** [CMakeFiles/Makefile2:199: CMakeFiles/publisher_member_function_with_type_adapter.dir/all] Error 2
+[14.809s] gmake[1]: *** [CMakeFiles/Makefile2:147: CMakeFiles/publisher_lambda.dir/all] Interrupt
+[14.809s] gmake[2]: *** [CMakeFiles/publisher_member_function.dir/build.make:76: CMakeFiles/publisher_member_function.dir/member_function.cpp.o] Interrupt
+[14.809s] gmake[1]: *** [CMakeFiles/Makefile2:173: CMakeFiles/publisher_member_function.dir/all] Interrupt
+[14.818s] gmake[2]: *** [CMakeFiles/publisher_not_composable.dir/build.make:76: CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o] Interrupt
+[14.818s] gmake[1]: *** [CMakeFiles/Makefile2:277: CMakeFiles/publisher_not_composable.dir/all] Interrupt
+[14.818s] gmake: *** [Makefile:146: all] Interrupt

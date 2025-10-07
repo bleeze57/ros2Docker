@@ -1,0 +1,7 @@
+[0.047s] Invoking command in '/home/psasav/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --build /home/psasav/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j16 -l16
+[3.681s] [ 50%] [32mBuilding CXX object CMakeFiles/multithreaded_executor.dir/multithreaded_executor.cpp.o[0m
+[14.798s] gmake[2]: *** [CMakeFiles/multithreaded_executor.dir/build.make:76: CMakeFiles/multithreaded_executor.dir/multithreaded_executor.cpp.o] Interrupt
+[14.798s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/multithreaded_executor.dir/all] Interrupt
+[14.800s] gmake: *** wait: No child processes.  Stop.
+[14.800s] gmake: *** Waiting for unfinished jobs....
+[14.800s] gmake: *** wait: No child processes.  Stop.

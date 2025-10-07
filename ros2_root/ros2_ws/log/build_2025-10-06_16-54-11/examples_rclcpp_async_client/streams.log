@@ -1,0 +1,24 @@
+[0.052s] Invoking command in '/home/psasav/ros2_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --build /home/psasav/ros2_ws/build/examples_rclcpp_async_client -- -j16 -l16
+[3.633s] [ 50%] [32mBuilding CXX object CMakeFiles/client_main.dir/main.cpp.o[0m
+[10.571s] [100%] [32m[1mLinking CXX executable client_main[0m
+[10.999s] [100%] Built target client_main
+[11.202s] Invoked command in '/home/psasav/ros2_ws/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --build /home/psasav/ros2_ws/build/examples_rclcpp_async_client -- -j16 -l16
+[11.208s] Invoking command in '/home/psasav/ros2_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=/home/psasav/ros2_ws/install/examples_rclpy_minimal_action_client:/opt/ros/humble /usr/bin/cmake --install /home/psasav/ros2_ws/build/examples_rclcpp_async_client
+[11.413s] -- Install configuration: ""
+[11.413s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/lib/examples_rclcpp_async_client/client_main
+[11.413s] -- Set runtime path of "/home/psasav/ros2_ws/install/examples_rclcpp_async_client/lib/examples_rclcpp_async_client/client_main" to ""
+[11.414s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_async_client
+[11.414s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_async_client
+[11.414s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.sh
+[11.414s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.dsv
+[11.414s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.sh
+[11.414s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.dsv
+[11.414s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.bash
+[11.414s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.sh
+[11.414s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.zsh
+[11.414s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.dsv
+[11.414s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.dsv
+[11.415s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/packages/examples_rclcpp_async_client
+[11.415s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig.cmake
+[11.415s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig-version.cmake
+[11.415s] -- Installing: /home/psasav/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.xml
