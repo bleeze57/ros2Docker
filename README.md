@@ -8,7 +8,7 @@ b. Install ros2 Humble
 https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
 
 
-## Step-by-Step
+## Set Up Environment
 
 1.git clone this repo
 
@@ -40,5 +40,5 @@ $ docker run -it --rm ros2docker
 ```
 $ docker ps
 ```
-
-7.
+## Run Server Node & Client Node
+1. Go bakc to the docker terminal, run the ros package
